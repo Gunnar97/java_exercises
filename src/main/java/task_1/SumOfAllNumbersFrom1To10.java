@@ -16,5 +16,5 @@ public class SumOfAllNumbersFrom1To10 {
         }
 
         return result;
-    };
+    }
 }
