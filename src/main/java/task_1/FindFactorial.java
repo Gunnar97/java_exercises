@@ -12,7 +12,7 @@ public class FindFactorial {
 
     private static long findFactorial(int value) {
         long result = 1;
-        if(value == 0){
+        if(value == 0 || value == 1){
             result = 1;
         }
         if(value>39){
